@@ -1,0 +1,25 @@
+.background-gradient {
+  background: linear-gradient(300deg, #F1E5D1, #DBB5B5, #C39898);
+}
+
+.img {
+  border-radius: 75%;
+}
+
+#body {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 400px 400px;
+  padding: 2rem;
+  gap: 20px;
+}
+
+p {
+  text-align: justify;
+}
+
+li {
+  text-align: justify;
+  padding: 0;
+  gap: 10px;
+}
