@@ -1,3 +1,9 @@
 .background-gradient {
   background: linear-gradient(300deg, #F1E5D1, #DBB5B5, #C39898);
 }
+
+.container-body {
+  display: flex-direction;
+  align-items: center;
+  margin-top: 20px;
+}

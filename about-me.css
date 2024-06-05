@@ -4,17 +4,20 @@
 
 .img {
   border-radius: 75%;
+  width: 400px;
 }
 
 #body {
   display: grid;
+  height: 80vh;
   justify-content: center;
-  grid-template-columns: 400px 400px;
+  grid-template-columns: 500px 400px;
   padding: 2rem;
   gap: 20px;
 }
 
 p {
+  margin-top: 10px;
   text-align: justify;
 }
 
