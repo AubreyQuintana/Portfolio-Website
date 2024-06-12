@@ -2,20 +2,9 @@
   background: linear-gradient(300deg, #F1E5D1, #DBB5B5, #C39898);
 }
 
-.img {
+.pic {
   border-radius: 75%;
   width: 400px;
-  border-width: 10px;
-  border-color: black;
-}
-
-#body {
-  display: grid;
-  height: 100vh;
-  justify-content: center;
-  grid-template-columns: 500px 400px;
-  padding: 2rem;
-  gap: 20px;
 }
 
 p {
@@ -27,13 +16,4 @@ li {
   text-align: justify;
   padding: 0;
   gap: 10px;
-}
-
-.container-logos {
-  display: flex;
-}
-
-.logo {
-  width: 200px;
-  height: 150px;
 }
