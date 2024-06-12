@@ -5,11 +5,13 @@
 .img {
   border-radius: 75%;
   width: 400px;
+  border-width: 10px;
+  border-color: black;
 }
 
 #body {
   display: grid;
-  height: 80vh;
+  height: 100vh;
   justify-content: center;
   grid-template-columns: 500px 400px;
   padding: 2rem;
