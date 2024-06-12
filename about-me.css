@@ -28,3 +28,12 @@ li {
   padding: 0;
   gap: 10px;
 }
+
+.container-logos {
+  display: flex;
+}
+
+.logo {
+  width: 200px;
+  height: 150px;
+}
