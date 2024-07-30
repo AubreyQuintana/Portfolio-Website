@@ -5,6 +5,7 @@
 .pic {
   border-radius: 75%;
   width: 400px;
+  padding-bottom: 20px;
 }
 
 p {

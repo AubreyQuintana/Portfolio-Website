@@ -2,12 +2,6 @@
   background: linear-gradient(300deg, #F1E5D1, #DBB5B5, #C39898);
 }
 
-#body {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-}
-
 .logo {
   width: 200px;
 }
